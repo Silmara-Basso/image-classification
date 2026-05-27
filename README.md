@@ -1,2 +1,2 @@
-# image-classification-
+# image-classification
 Satellite Image Classification with Deep Learning
